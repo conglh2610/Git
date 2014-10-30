@@ -10,6 +10,8 @@ namespace Git.Models
         int a = 2;
 
         string b = 'sdsd';
+
+        double k = 1.0.10;
     }
 
 }
