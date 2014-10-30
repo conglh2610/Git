@@ -7,5 +7,6 @@ namespace Git.Models
 {
     public class AccountEntity
     {
+        int a = 2;
     }
 }
